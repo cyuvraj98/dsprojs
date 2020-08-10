@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 import sqlite3
-# https://www.youtube.com/watch?v=4yRLfEm1T5c (Plexhacks 2020 Tutorial link by Akshat Jain)
+
 def run_sql_code(query):
     con = sqlite3.connect("local.db") # con is the shortform for connection
     cur = con.cursor()
