@@ -1,2 +1,2 @@
 # Software Engineering & Data Science Projects + Hackathons
-Repository of all my Data Science Projects
+Repository of all my Software Engineering & Data Science Projects
